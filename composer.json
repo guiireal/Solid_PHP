@@ -1,0 +1,11 @@
+{
+  "name": "guiireal/alura-solid-php7",
+  "autoload": {
+    "psr-4": {
+      "Alura\\Solid\\": "src/"
+    }
+  },
+  "require": {
+    "pdepend/pdepend": "^2.5"
+  }
+}
