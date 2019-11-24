@@ -1,6 +1,6 @@
 # Princípios SOLID (POO)
 
-Projeto desenvolvido para compreender os princípios dda programação orientada a objetos utilizando SOLID.
+Projeto desenvolvido para compreender os princípios da programação orientada a objetos utilizando SOLID.
 
 - S — Single Responsiblity Principle (Princípio da responsabilidade única)
 - O — Open-Closed Principle (Princípio Aberto-Fechado)
